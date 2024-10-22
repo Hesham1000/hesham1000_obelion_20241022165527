@@ -9,6 +9,7 @@
     },
     "dependencies": {
         "react": "latest",
+        "hesham": "latest",
         "regular dependencies": "latest"
     },
     "devDependencies": {
